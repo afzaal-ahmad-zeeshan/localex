@@ -2,7 +2,8 @@ name: localex
 description: A supportive package to give readable locale, language, and voice profiles.
 version: 0.0.1
 author: Afzaal Ahmad Zeeshan
-homepage: https://github.com/afzaal-ahmad-zeeshan/localex
+repository: https://github.com/afzaal-ahmad-zeeshan/localex
+issue_tracker: https://github.com/afzaal-ahmad-zeeshan/localex/issues
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

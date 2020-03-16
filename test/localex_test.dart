@@ -3,7 +3,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:localex/localex.dart';
 
 void main() {
-  test('adds one to input values', () {
+  test('skipping the tests for now', () {
     // final calculator = Calculator();
     // expect(calculator.addOne(2), 3);
     // expect(calculator.addOne(-7), -6);
