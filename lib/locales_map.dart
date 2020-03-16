@@ -1,5 +1,7 @@
 import 'dart:core';
 
+/// LocalesMap contains a map of ISO locale codes and their readable formats.
+/// Keys are all lower-case.
 class LocalesMap {
   static Map<String, String> locationCodes = {
     "af"   : "Afrikaans",
