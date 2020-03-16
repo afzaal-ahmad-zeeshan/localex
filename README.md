@@ -1,2 +1,2 @@
 # localex
-Location helper for Flutter/Dart.
+Locale extension functions for Flutter/Dart.
