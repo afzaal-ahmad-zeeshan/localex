@@ -2,6 +2,8 @@
 
 Locale extension functions for Flutter/Dart.
 
+![Dart CI](https://github.com/afzaal-ahmad-zeeshan/localex/workflows/Dart%20CI/badge.svg?branch=master)
+
 ## Codes
 
 I have downloaded the codes from [this website](http://www.lingoes.net/en/translator/langcode.htm),
